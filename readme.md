@@ -32,6 +32,7 @@ The public standing in front of the screen should be illuminated with a diffuse 
 
 ## Installation
 Download the software from this link: 
+
 <http://lozano-hemmer.com/software/level_of_confidence/Nivel_de_Confianza_v21.zip>
 
 Once you have that Unzip the folder and place it on the desktop or anywhere you want. Inside the "Level of Confidence" folder find the LOC_xx.app icon (xx stands for the version number) that looks like this:
@@ -63,6 +64,7 @@ Please put the following text next to the work:
 
 ## Information
 For more information on this project, videos, photos and press, please visit: 
+
 <http://www.lozano-hemmer.com/level_of_confidence.php>
 
 ## Images

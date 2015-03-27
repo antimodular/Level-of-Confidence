@@ -33,6 +33,7 @@ El público que se encuentra de frente a la pantalla deberá estar iluminado c
 
 ## Instalación
 Para descargar el software haga click sobre este link: 
+
 <http://lozano-hemmer.com/software/level_of_confidence/Nivel_de_Confianza_v21.zip>
 
 Una vez que tenga el archivo descomprimido y este haya sido colocado en el escritorio o el destino que usted desee, dentro de la carpeta “nivel de confianza” encontrará el icono LOC_xx.app (xx representa el número de la versión) el cual tiene este aspecto:
@@ -63,9 +64,11 @@ Por favor, ponga el siguiente texto junto a la obra:
 
 ## Información
 Para mas información sobre este proyecto, sus videos, fotos y prensa, por favor visite:
+
 <http://www.lozano-hemmer.com/level_of_confidence.php>
 
 Si desea descargar el código fuente abierto de este proyecto visite nuestro repositorio en GitHub. Si usted programa en OpenFrameworks puede modificar el proyecto para buscar a otros desaparecidos.
+
 <https://github.com/antimodular/Level-of-Confidence>
 
 ## Imágenes
