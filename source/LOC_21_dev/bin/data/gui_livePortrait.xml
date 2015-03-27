@@ -1,0 +1,12 @@
+<live_portrait>
+	<livePortrait_x>22</livePortrait_x>
+	<livePortrait_y>1195</livePortrait_y>
+<live_portrait/>
+<showLivePortrait>1</showLivePortrait>
+<growRectSize>0.045</growRectSize>
+<livePortrait_w>513</livePortrait_w>
+	<livePortrait_h>707</livePortrait_h>
+<horizPadding>40</horizPadding>
+<liveZoomIn>0.01</liveZoomIn>
+	<liveZoomOut>0.44</liveZoomOut>
+</live_portrait>

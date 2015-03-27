@@ -1,0 +1,18 @@
+<grid>
+	<grid_cols>8</grid_cols>
+	<grid_rows>6</grid_rows>
+	<frame_top>0</frame_top>
+	<frame_bottom>841</frame_bottom>
+	<frame_left>0</frame_left>
+	<frame_right>650</frame_right>
+	<font_y>828</font_y>
+	<font_size>60</font_size>
+	<font_lineHeight>62</font_lineHeight>
+<grid/>
+<gridSwitch_duration>5</gridSwitch_duration>
+	<grid_tweenStepping>0.02</grid_tweenStepping>
+<font_ySmall>170</font_ySmall>
+	<font_sizeSmall>12</font_sizeSmall>
+	<font_lineHeightSmall>12</font_lineHeightSmall>
+<smallGrid_y>120</smallGrid_y>
+</grid>

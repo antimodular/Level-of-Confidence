@@ -1,0 +1,9 @@
+ofxGui
+ofxXmlSettings
+ofxCv
+ofxFaceTracker
+ofxFTGL
+ofxOpenCV2461
+ofxprosilica
+ofxUVC
+ofxYAML

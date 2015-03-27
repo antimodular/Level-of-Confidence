@@ -1,0 +1,20 @@
+<usb_cam>
+	<mirror>0</mirror>
+	<flip>1</flip>
+	<cropOriginX>0</cropOriginX>
+	<cropOriginY>0</cropOriginY>
+	<Crop_Width>400</Crop_Width>
+	<change_controlls>0</change_controlls>
+	<getCamValues>0</getCamValues>
+	<aFocus>0</aFocus>
+	<focusValue>0.225</focusValue>
+	<aExposure>0</aExposure>
+	<exposureValue>0.935</exposureValue>
+	<aWhiteBalance>0</aWhiteBalance>
+	<whiteBalanceValue>0.845</whiteBalanceValue>
+	<brightnessValue>0.5</brightnessValue>
+	<contrastValue>0.12</contrastValue>
+	<saturationValue>0.245</saturationValue>
+	<sharpValue>0.61</sharpValue>
+	<gainValue>0.06</gainValue>
+</usb_cam>

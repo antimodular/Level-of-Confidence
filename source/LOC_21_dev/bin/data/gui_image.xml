@@ -1,0 +1,52 @@
+<group>
+	<group/>
+<image_grid>
+		<grid_cols>8</grid_cols>
+		<grid_rows>6</grid_rows>
+		<defaultZoom_out>0.209</defaultZoom_out>
+		<defaultZoom_in>2.43</defaultZoom_in>
+	<gridSwitch_duration>20</gridSwitch_duration>
+	<grid_tweenStepping>0.02</grid_tweenStepping>
+	<frame_lineW>4</frame_lineW>
+		<frame_x>61</frame_x>
+		<frame_y>111</frame_y>
+		<frame_width>528</frame_width>
+		<frame_height>660</frame_height>
+	<frame_top>101</frame_top>
+		<frame_bottom>770</frame_bottom>
+		<frame_left>101</frame_left>
+		<frame_right>566</frame_right>
+	<font_y>825</font_y>
+	<font_size>52</font_size>
+	<zoomInControlPoint_A>1, 0, 0</zoomInControlPoint_A>
+		<zoomInControlPoint_B>1, 0, 0</zoomInControlPoint_B>
+		<zoomIn_oneStep>0.01</zoomIn_oneStep>
+		<zoomMidControlPoint_A>1, 0, 0</zoomMidControlPoint_A>
+		<zoomMidControlPoint_B>1, 1, 0</zoomMidControlPoint_B>
+		<defaultZoom_mid>0.8125</defaultZoom_mid>
+		<zoomOutControlPoint_A>1, 0.530612, 0</zoomOutControlPoint_A>
+		<zoomOutControlPoint_B>1, 1, 0</zoomOutControlPoint_B>
+	<zoomMid_oneStep>0.04951</zoomMid_oneStep>
+		<zoomOut_oneStep>1</zoomOut_oneStep>
+	<goToID>0</goToID>
+	<font_lineHeight>47</font_lineHeight>
+	<bigFont_y>777</bigFont_y>
+		<bigFontSize>44</bigFontSize>
+		<bigFont_lineHeight>43</bigFont_lineHeight>
+	<zoomStage>-1</zoomStage>
+	<infoText_x>462</infoText_x>
+		<infoText_y>985</infoText_y>
+		<infoText_fontSize>26</infoText_fontSize>
+		<infoText_lineHeight>29</infoText_lineHeight>
+	</image_grid>
+<goToID>0</goToID>
+	<zoomStage>0</zoomStage>
+<picked_portrait>
+		<pickedPortrait_x>482</pickedPortrait_x>
+		<pickedPortrait_y>1112</pickedPortrait_y>
+		<pickedP_scaler>1.047</pickedP_scaler>
+	<bigFont_y>20</bigFont_y>
+		<bigFontSize>48</bigFontSize>
+		<bigFont_lineHeight>47</bigFont_lineHeight>
+	</picked_portrait>
+</group>
