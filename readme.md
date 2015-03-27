@@ -1,3 +1,5 @@
+##Level of Confidence
+
 # Introduction
 **“Level of confidence” (“Nivel de Confianza” in Spanish)** is an art project featuring a face- recognition camera that has been trained with the faces of the 43 disappeared students from Ayotzinapa school in Iguala, Mexico. As you stand in front of the camera, the system uses algorithms to find which student's facial features look most like yours and gives a "level of confidence" on how accurate the match is, in percent. The piece will always fail to make a positive match, as we know that the students were murdered and burnt, but the commemorative side of the project is the relentless search for them and their overlap with the public's own facial features. The project software is available for free download so that any university, cultural centre, gallery or institution can set-up the piece. In addition, if the project is sold commercially, all proceeds will go to the affected community, in the form of scholarships for example.
 
