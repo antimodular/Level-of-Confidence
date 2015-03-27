@@ -31,7 +31,8 @@ This software ran slowly on:
 The public standing in front of the screen should be illuminated with a diffuse light. This is important so that the camera can capture the details of the public’s face. Typically a fluorescent or quartz halogen wash light can be hung on the very same wall and over the display. Ideally the piece will be shown so that the camera faces a blank wall instead of a busy window with natural light, since the sunlight will overpower the camera, this helps the system concentrate in searching for faces which are close to the screen.
 
 ## Installation
-Download the software from this link: <http://lozano-hemmer.com/software/level_of_confidence/Nivel_de_Confianza_v21.zip>
+Download the software from this link: 
+<http://lozano-hemmer.com/software/level_of_confidence/Nivel_de_Confianza_v21.zip>
 
 Once you have that Unzip the folder and place it on the desktop or anywhere you want. Inside the "Level of Confidence" folder find the LOC_xx.app icon (xx stands for the version number) that looks like this:
 
@@ -61,7 +62,8 @@ Please put the following text next to the work:
 
 
 ## Information
-For more information on this project, videos, photos and press, please visit <http://www.lozano-hemmer.com/level_of_confidence.php>
+For more information on this project, videos, photos and press, please visit: 
+<http://www.lozano-hemmer.com/level_of_confidence.php>
 
 ## Images
 Screen shot:
