@@ -1,7 +1,7 @@
 #Level of Confidence
 
 ## Introduction
-**“Level of confidence” (“Nivel de Confianza” in Spanish)** is an art project featuring a face- recognition camera that has been trained with the faces of the 43 disappeared students from Ayotzinapa school in Iguala, Mexico. As you stand in front of the camera, the system uses algorithms to find which student's facial features look most like yours and gives a "level of confidence" on how accurate the match is, in percent. The piece will always fail to make a positive match, as we know that the students were murdered and burnt, but the commemorative side of the project is the relentless search for them and their overlap with the public's own facial features. The project software is available for free download so that any university, cultural centre, gallery or institution can set-up the piece. In addition, if the project is sold commercially, all proceeds will go to the affected community, in the form of scholarships for example.
+**“Level of confidence” (“Nivel de Confianza” in Spanish)** is an art project featuring a face-recognition camera that has been trained with the faces of the 43 disappeared students from Ayotzinapa school in Iguala, Mexico. As you stand in front of the camera, the system uses algorithms to find which student's facial features look most like yours and gives a "level of confidence" on how accurate the match is, in percent. The piece will always fail to make a positive match, as we know that the students were murdered and burnt, but the commemorative side of the project is the relentless search for them and their overlap with the public's own facial features. The project software is available for free download so that any university, cultural centre, gallery or institution can setup the piece. In addition, if the project is sold commercially, all proceeds will go to the affected community, in the form of scholarships for example.
 
 You need to supply four pieces of hardware to show this project: 
 
@@ -41,11 +41,10 @@ Drag this icon in to the Dock for convenience. Open "System Preferences"
 go to "User &Groups"->"Login Items" and add the LOC_xx.app icon to the list of items that will automatically start on log in.
 - go to "Desktop & Screen Saver" and set Screen Saver to "Start after" never.
 - go to "Energy Saver" and unselect "Put hard disks to sleep ..."
-- go to "Displays" and set "Rotation" to 90 ̊ -while still in "Display" check that the resolu-
-tion is set to 1920x1080
-- If you use a laptop with OSX 10.9 or higher go to “Mission Control” and unselect “Au-
-tomatically rearrange ... “ and “Displays have separate Spaces”, otherwise the software will not run on your external Display.
-- If you get a warning that the project is from an “unidentified developer” go to the prefer- ences -> “security and privacy” and select “ Allow apps dowloaded from anywhere”.
+- go to "Displays" and set "Rotation" to 90 ̊ 
+- while still in "Display" check that the resolution is set to 1920x1080
+- If you use a laptop with OSX 10.9 or higher go to “Mission Control” and unselect “Automatically rearrange ... “ and “Displays have separate Spaces”, otherwise the software will not run on your external Display.
+- If you get a warning that the project is from an “unidentified developer” go to the preferences -> “security and privacy” and select “ Allow apps dowloaded from anywhere”.
 
 
 ## Calibration
