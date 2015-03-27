@@ -54,7 +54,7 @@ Cuando el software se inicie verá la cámara en vivo durante 10 segundos. Ust
 
 La versión actual (v_21) viene en Español y en Inglés. Basta con pulsar la barra espaciadora para cambiar de un idioma a otro.
 
-To exit the software press the ESC key.
+Para salir del programa presione la tecla ESC.
 
 ## Texto
 Por favor, ponga el siguiente texto junto a la obra:
