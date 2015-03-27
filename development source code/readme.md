@@ -1,7 +1,7 @@
 #Level of Confidence - development branch
 
 ## Introduction
-The software version that needs to be use for exhibition purposes can be downloaded here:
+The software version that needs to be used for exhibition purposes can be downloaded here:
 
 <http://lozano-hemmer.com/software/level_of_confidence/Nivel_de_Confianza_v21.zip>
 
@@ -23,7 +23,7 @@ ofxprosilica
 
 ofxOpenCV2461
 <https://github.com/pkmital/ofxOpenCV2461>
-Requires your project to link against ZLib and OpenCL.
+(Requires your project to link against ZLib and OpenCL.)
 
 ofxCv
 <https://github.com/kylemcdonald/ofxCv>
@@ -36,10 +36,10 @@ ofxFTGL
 The above mentioned exhibition version ships with a pre-complied database which is used for the face recognition.
 The database file is named like this: "model_fisher_2319_Tarrlab_rot+crop.yml"
 
-The development version ships *without* a pre-complied database and generates a new database every time it runs.
-Due to the extra processes that this requires the loading process takes much longer.
+The development version ships **without** a pre-complied database and generates a new database every time it runs.
+Due to the extra processing that this requires the loading process takes much longer.
 
-These lines of code determine if a new database should be generated or if the software can just load an already existing database.
+The following lines of code determine if a new database should be generated or if the software can just load an already existing database.
 
 ```
 //-----------faceRecognizer
