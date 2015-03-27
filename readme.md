@@ -41,10 +41,10 @@ Once you have that Unzip the folder and place it on the desktop or anywhere you 
 
 Drag this icon in to the Dock for convenience. Open "System Preferences"
 go to "User &Groups"->"Login Items" and add the LOC_xx.app icon to the list of items that will automatically start on log in.
-- go to "Desktop & Screen Saver" and set Screen Saver to "Start after" never.
-- go to "Energy Saver" and unselect "Put hard disks to sleep ..."
-- go to "Displays" and set "Rotation" to 90 ̊ 
-- while still in "Display" check that the resolution is set to 1920x1080
+- Go to "Desktop & Screen Saver" and set Screen Saver to "Start after" never.
+- Go to "Energy Saver" and unselect "Put hard disks to sleep ...".
+- Go to "Displays" and set "Rotation" to 90 ̊. 
+- While still in "Display" check that the resolution is set to 1920x1080.
 - If you use a laptop with OSX 10.9 or higher go to “Mission Control” and unselect “Automatically rearrange ... “ and “Displays have separate Spaces”, otherwise the software will not run on your external Display.
 - If you get a warning that the project is from an “unidentified developer” go to the preferences -> “security and privacy” and select “ Allow apps dowloaded from anywhere”.
 
@@ -66,6 +66,10 @@ Please put the following text next to the work:
 For more information on this project, videos, photos and press, please visit: 
 
 <http://www.lozano-hemmer.com/level_of_confidence.php>
+
+To download the source code please visit our GitHub. If you program on OpenFrameworks, you can modify the project to look for other missing people. 
+
+<https://github.com/antimodular/Level-of-Confidence>
 
 ## Images
 Screen shot:

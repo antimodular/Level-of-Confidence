@@ -8,6 +8,7 @@
 #include "ofMain.h"
 #include "ofxFaceRecognizer.h"
 
+//http://docs.opencv.org/modules/contrib/doc/facerec/facerec_api.html?highlight=facerec
 
 ofxFaceRecognizer::ofxFaceRecognizer()
 {

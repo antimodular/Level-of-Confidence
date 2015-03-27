@@ -1,17 +1,26 @@
 #include "ofApp.h"
 
+/*
+ 2015
+ artist: Rafael Lozano-Hemmer
+ developeder: Stephan Schulz
+
+ special thanks to Kyle McDonald for allowing us to use the ofXFaceTracker
+ */
+
+
 //todo list
 /*
  - camRotate does not like it to be set to 2
  - reject the location of false faces
- 
+
  */
 
 
 
 void ofApp::setup() {
     
-    versionNum = "v_21";
+    versionNum = "v_21_dev";
     
     ofSetVerticalSync(true);
     // ofBackground(255,0,0);
@@ -38,10 +47,7 @@ void ofApp::setup() {
     gui_main.setPosition(gui_x,gui_y);
     gui_main.setDefaultHeaderBackgroundColor(ofColor(255,0,0));
     gui_main.add(fps.set("fps",0,0,120));
-    //    gui_main.add(BGcolor.set("BG color",ofColor(100,100,140),ofColor(0,0),ofColor(255,255)));
-    //    gui_main.add(BGcolor2.set("BG color2",ofColor(100,100,140),ofColor(0,0),ofColor(255,255)));
-    
-    
+
     
     gui_tracking.setup("tracking");
     gui_tracking.setPosition(gui_x+=gui_w,gui_y);
@@ -284,13 +290,15 @@ void ofApp::setup() {
     
     //-----------faceRecognizer
     
+    // method_used
     // 0 = Eigenfaces_method ; has much bigger database. takes longer to load
     // 1 = Fisherfaces_method; faster to load
     // 2 = LBPHFaces_method //Local Binary Patterns Histograms
-    //int method_used, int maxFaces, bool bAlreadySavedModel, string folderName
-   // theFaceRecognizer.setup(1,500,true,"Tarrlab_rot+crop");
-   // theFaceRecognizer.setup(1,2319,true,"Tarrlab_rot+crop");
+    // theFaceRecognizer.setup(int method_used, int maxFaces, bool bAlreadySavedModel, string folderName)
+    // theFaceRecognizer.setup(1,500,true,"Tarrlab_rot+crop");
+    // theFaceRecognizer.setup(1,2319,true,"Tarrlab_rot+crop");
     
+    //bool bAlreadySavedModel is set to false, this means a new database will be generated
     theFaceRecognizer.setup(1,500,false,"Tarrlab_rot+crop");
     
     int t_cnt = 0;
