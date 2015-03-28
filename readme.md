@@ -1,7 +1,7 @@
 #Level of Confidence
 
 ## Introduction
-**“Level of confidence” (“Nivel de Confianza” in Spanish)** is an art project featuring a face-recognition camera that has been trained with the faces of the 43 disappeared students from Ayotzinapa school in Iguala, Mexico. As you stand in front of the camera, the system uses algorithms to find which student's facial features look most like yours and gives a "level of confidence" on how accurate the match is, in percent. The piece will always fail to make a positive match, as we know that the students were murdered and burnt, but the commemorative side of the project is the relentless search for them and their overlap with the public's own facial features. The project software is available for free download so that any university, cultural centre, gallery or institution can setup the piece. In addition, if the project is sold commercially, all proceeds will go to the affected community, in the form of scholarships for example.
+**“Level of Confidence” (“Nivel de Confianza” in Spanish)** is an art project featuring a face-recognition camera that has been trained with the faces of the 43 disappeared students from Ayotzinapa school in Iguala, Mexico. As you stand in front of the camera, the system uses algorithms to find which student's facial features look most like yours and gives a "Level of Confidence" on how accurate the match is, in percent. The piece will always fail to make a positive match, as we know that the students were murdered and burnt, but the commemorative side of the project is the relentless search for them and their overlap with the public's own facial features. The project software is available for free download so that any university, cultural centre, gallery or institution can setup the piece. In addition, if the project is sold commercially, all proceeds will go to the affected community, in the form of scholarships for example.
 
 You need to supply four pieces of hardware to show this project: 
 
@@ -16,7 +16,7 @@ A small USB webcam should be hung at a height of 150 cm (measured from the centr
 - Logitech C930E
 
 ## 3. Computer
-"Level of confidence" requires an Apple Macintosh computer with OSX 10.8 or higher. The software has been successfully run on the following models:
+"Level of Confidence" requires an Apple Macintosh computer with OSX 10.8 or higher. The software has been successfully run on the following models:
 - Mac Book Pro 2.8 GHz Indel Core i7 processor, 16GB RAM, Intel Iris Pro 1536MB graphics card
 - Mac Mini 2.3 GHz Intel Core i7, 4GB RAM, Intel HD 4000 512MB graphics card
 - Mac Mini 2.6 GHz Intel Core i5, 8GB RAM, IRIS 5100 graphics card
@@ -59,7 +59,7 @@ To exit the software press the ESC key.
 ## Text
 Please put the following text next to the work:
 
-“Level of confidence” by Rafael Lozano-Hemmer, 2015. A face-recognition camera that has been trained with the faces of the 43 disappeared students from Ayotzinapa school in Iguala, Mexico. To acquire or exhibit this work please contact <karine@antimodular.com> all proceeds will go to fund scholarships in the affected community.
+“Level of Confidence” by Rafael Lozano-Hemmer, 2015. A face-recognition camera that has been trained with the faces of the 43 disappeared students from Ayotzinapa school in Iguala, Mexico. To acquire or exhibit this work please contact <karine@antimodular.com> all proceeds will go to fund scholarships in the affected community.
 
 
 ## Information
