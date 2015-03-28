@@ -37,7 +37,7 @@ Download the software from this link:
 
 Once you have that Unzip the folder and place it on the desktop or anywhere you want. Inside the "Level of Confidence" folder find the LOC_xx.app icon (xx stands for the version number) that looks like this:
 
-![](https://github.com/antimodular/Level-of-Confidence/blob/master/images/icon_small.png)
+![](https://raw.githubusercontent.com/antimodular/Level-of-Confidence/master/images/icon_small.png)
 
 Drag this icon in to the Dock for convenience. Open "System Preferences"
 go to "User &Groups"->"Login Items" and add the LOC_xx.app icon to the list of items that will automatically start on log in.

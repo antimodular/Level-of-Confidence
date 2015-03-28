@@ -38,7 +38,7 @@ Para descargar el software haga click sobre este link:
 
 Una vez que tenga el archivo descomprimido y este haya sido colocado en el escritorio o el destino que usted desee, dentro de la carpeta “nivel de confianza” encontrará el icono LOC_xx.app (xx representa el número de la versión) el cual tiene este aspecto:
 
-![](https://github.com/antimodular/Level-of-Confidence/blob/master/images/icon_small.png)
+![](https://raw.githubusercontent.com/antimodular/Level-of-Confidence/master/images/icon_small.png)
 
 Arrastre este icono al Dock para mayor comodidad. Abra “Preferencias del sistema”
 - ir a “Usuario y Grupos” -> “Elementos de Inicio” y agregue el icono LOC_xx.app a la
