@@ -75,7 +75,7 @@ To download the source code please visit our GitHub. If you program on OpenFrame
 Screen shot:
 
 ![](https://raw.githubusercontent.com/antimodular/Level-of-Confidence/master/images/Screen_Shot.png)
-<div style="page-break-after: always;"></div>
+******
 
 3D-render of the setup:
 ![](https://raw.githubusercontent.com/antimodular/Level-of-Confidence/master/images/3d_model.png)
