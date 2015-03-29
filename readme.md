@@ -72,6 +72,7 @@ To download the source code please visit our GitHub. If you program on OpenFrame
 <https://github.com/antimodular/Level-of-Confidence>
 
 ## Images
+------
 Screen shot:
 
 ![](https://raw.githubusercontent.com/antimodular/Level-of-Confidence/master/images/Screen_Shot.png)
