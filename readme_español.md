@@ -15,6 +15,8 @@ Una cámara web pequeña USB debe ir colgada a una altura de 150 cm (medir des
 - Logitech C910
 - Logitech QuickCam Pro 9000
 - Logitech C930E
+- Microsoft 180P HD
+- Apple iSight (Firewire 400)
 
 ## 3. Computadora
 “Nivel de Confianza” requiere una computadora Apple Macintosh con sistema operativo OSX 10.8 o superior. El software ha sido ejecutado correctamente en los siguientes modelos:

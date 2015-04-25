@@ -14,6 +14,8 @@ A small USB webcam should be hung at a height of 150 cm (measured from the centr
 - Logitech C910
 - Logitech QuickCam Pro 9000
 - Logitech C930E
+- Microsoft 180P HD
+- Apple iSight (Firewire 400)
 
 ## 3. Computer
 "Level of Confidence" requires an Apple Macintosh computer with OSX 10.8 or higher. The software has been successfully run on the following models:
