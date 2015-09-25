@@ -12,8 +12,9 @@ La pantalla puede ser cualquier monitor plano que tenga una resolución HD de 1
 
 ## 2. Cámara USB
 Una cámara web pequeña USB debe ir colgada a una altura de 150 cm (medir desde el centro de la cámara hasta el piso) y en una orientación vertical. Cualquier cámara web USB que funciona con Skype u otras aplicaciones de vídeo deberá funcionar con este software. Las siguientes cámaras fueron probadas con éxito:
-- Logitech C910
 - Logitech QuickCam Pro 9000
+- Logitech C910
+- Logitech C920
 - Logitech C930E
 - Microsoft 180P HD
 - Apple iSight (Firewire 400)

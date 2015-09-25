@@ -11,8 +11,9 @@ The display can be any flat screen that has a native HD resolution of 1920x1080 
 
 ## 2. USB Camera
 A small USB webcam should be hung at a height of 150 cm (measured from the centre of the camera) and in a vertical orientation. Any USB web camera that works with Skype or other video applications should work with this software. We successfully tested these cameras:
-- Logitech C910
 - Logitech QuickCam Pro 9000
+- Logitech C910
+- Logitech C920
 - Logitech C930E
 - Microsoft 180P HD
 - Apple iSight (Firewire 400)
