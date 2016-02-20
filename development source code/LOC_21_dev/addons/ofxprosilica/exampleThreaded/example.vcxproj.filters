@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="src\ofApp.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ofApp.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxGui\src\ofxBaseGui.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxGui\src\ofxButton.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxGui\src\ofxGuiGroup.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxGui\src\ofxLabel.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxGui\src\ofxPanel.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxGui\src\ofxSlider.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxGui\src\ofxSliderGroup.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxGui\src\ofxToggle.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxProsilica\src\BaseGrabber.cpp">
+      <Filter>addons\ofxProsilica\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxProsilica\src\Connector.cpp">
+      <Filter>addons\ofxProsilica\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxProsilica\src\ConnectorWithInterface.cpp">
+      <Filter>addons\ofxProsilica\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxProsilica\src\ThreadedConnector.cpp">
+      <Filter>addons\ofxProsilica\src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{d8376475-7454-4a24-b08a-aac121d3ad6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons">
+      <UniqueIdentifier>{71834F65-F3A9-211E-73B8-DC85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxGui">
+      <UniqueIdentifier>{4F2A59AF-5F4E-704B-D067-EC13}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxGui\src">
+      <UniqueIdentifier>{645E9533-4DCD-6179-1CDF-CB65}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxProsilica">
+      <UniqueIdentifier>{88B9CFEE-A40B-B310-4DE3-90CC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxProsilica\src">
+      <UniqueIdentifier>{FB17DFD1-8D02-FBDD-0CD3-329C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxProsilica\libs">
+      <UniqueIdentifier>{383AC3C7-EAEB-7E1B-B432-6C60}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxProsilica\libs\PvAPI">
+      <UniqueIdentifier>{0E5B70C5-F3B5-87A8-B507-A9DF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxProsilica\libs\PvAPI\include">
+      <UniqueIdentifier>{E34864C5-2711-63C3-D398-91B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxProsilica\libs\PvAPI\lib">
+      <UniqueIdentifier>{2a4bb1ff-a1ed-487e-8676-860c3bd0cbfd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxProsilica\libs\PvAPI\lib\win32">
+      <UniqueIdentifier>{22a8e3cd-ed03-4db8-8ef0-fe8365af0f2a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\ofApp.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ofApp.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxGui\src\ofxBaseGui.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxGui\src\ofxButton.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxGui\src\ofxGui.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxGui\src\ofxGuiGroup.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxGui\src\ofxLabel.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxGui\src\ofxPanel.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxGui\src\ofxSlider.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxGui\src\ofxSliderGroup.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxGui\src\ofxToggle.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxProsilica\src\BaseGrabber.h">
+      <Filter>addons\ofxProsilica\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxProsilica\src\Connector.h">
+      <Filter>addons\ofxProsilica\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxProsilica\src\ConnectorWithInterface.h">
+      <Filter>addons\ofxProsilica\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxProsilica\src\ofxProsilica.h">
+      <Filter>addons\ofxProsilica\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxProsilica\src\ThreadedConnector.h">
+      <Filter>addons\ofxProsilica\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxProsilica\libs\PvAPI\include\ImageLib.h">
+      <Filter>addons\ofxProsilica\libs\PvAPI\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxProsilica\libs\PvAPI\include\PvApi.h">
+      <Filter>addons\ofxProsilica\libs\PvAPI\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxProsilica\libs\PvAPI\include\PvRegIo.h">
+      <Filter>addons\ofxProsilica\libs\PvAPI\include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="icon.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="..\libs\PvAPI\lib\win32\ImageLib.lib">
+      <Filter>addons\ofxProsilica\libs\PvAPI\lib\win32</Filter>
+    </Library>
+    <Library Include="..\libs\PvAPI\lib\win32\PvAPI.lib">
+      <Filter>addons\ofxProsilica\libs\PvAPI\lib\win32</Filter>
+    </Library>
+  </ItemGroup>
+</Project>
