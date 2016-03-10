@@ -48,7 +48,7 @@ go to "User &Groups"->"Login Items" and add the LOC_xx.app icon to the list of i
 - Go to "Energy Saver" and unselect "Put hard disks to sleep ...".
 - Go to "Displays" and set "Rotation" to 90 ̊. 
 - While still in "Display" check that the resolution is set to 1920x1080.
-- If you use a laptop click on the Arrangment tab and ensure the external display is the one on the far left. Take a look at this [image image]().
+- If you use a laptop click on the Arrangment tab and ensure the external display is the one on the far left. Take a look at this [image image](https://raw.githubusercontent.com/antimodular/Level-of-Confidence/master/images/displayArrangement.png).
 - If you use a laptop with OSX 10.9 or higher go to “Mission Control” and unselect “Automatically rearrange ... “ and “Displays have separate Spaces”, otherwise the software will not run on your external Display.
 - If you get a warning that the project is from an “unidentified developer” go to the preferences -> “security and privacy” and select “ Allow apps dowloaded from anywhere”.
 
