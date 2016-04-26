@@ -193,6 +193,7 @@ void ofApp::setup() {
 #ifndef VIDEO_GRAYSCALE
     vidGrabber.setPixelFormat(OF_PIXELS_RGB);
 #endif
+    
     vidGrabber.setup();
     // OF_IMAGE_GRAYSCALE
     
@@ -219,25 +220,28 @@ void ofApp::setup() {
     //we can now get back a list of devices.
     vector<ofVideoDevice> devices = vidGrabber.listDevices();
     int deviceID = 0;
-    if(devices.size() > 1){
-        cout<<"found more than one camera"<<endl;
-        for(int i = 0; i < devices.size(); i++){
-            cout << devices[i].id << ": " << devices[i].deviceName;
-            if( devices[i].bAvailable ){
-                
-                vector<string> deviceName;
-                deviceName = ofSplitString(devices[i].deviceName, " ");
-                if(deviceName[0] != "FaceTime"){
-                    deviceID = i;
-                    cout<<"found a cemra that is not a FaceTime camera; i.e. not a build in camera"<<endl;
-                }
-                cout << endl;
-            }else{
-                cout << " - unavailable " << endl;
+    ofLog()<<"found "<<devices.size()<<" cameras attached";
+    //    if(devices.size() > 1){
+    //        cout<<"found more than one camera"<<endl;
+    for(int i = 0; i < devices.size(); i++){
+        cout << devices[i].id << ": " << devices[i].deviceName;
+        if( devices[i].bAvailable ){
+            
+            //                vector<string> deviceNameSplit;
+            //                deviceNameSplit = ofSplitString(devices[i].deviceName, " ");
+            //                if(deviceNameSplit[0] != "FaceTime" ){
+            if(ofIsStringInString(devices[i].deviceName, "FaceTime") == false){
+                deviceID = i;
+                cout<<"found a camera that is not a FaceTime camera; i.e. not a build in camera"<<endl;
             }
+        }else{
+            cout << " - unavailable " << endl;
         }
     }
-    
+    //    }
+    cout<<endl;
+
+
     vidGrabber.setDeviceID(deviceID);
     vidGrabber.initGrabber(camWidth, camHeight);
     
