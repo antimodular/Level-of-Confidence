@@ -37,7 +37,7 @@ El público que se encuentra de frente a la pantalla deberá estar iluminado c
 ## Instalación
 Para descargar el software haga click sobre este link: 
 
-<http://lozano-hemmer.com/software/level_of_confidence/Nivel_de_Confianza_v21.zip>
+<http://lozano-hemmer.com/pieces/level_of_confidence/software/Nivel_de_Confianza.zip>
 
 Una vez que tenga el archivo descomprimido y este haya sido colocado en el escritorio o el destino que usted desee, dentro de la carpeta “Nivel de Confianza” encontrará el icono LOC_xx.app (xx representa el número de la versión) el cual tiene este aspecto:
 
@@ -54,7 +54,7 @@ Arrastre este icono al Dock para mayor comodidad. Abra “Preferencias del siste
 ## Calibración
 Cuando el software se inicie verá la cámara en vivo durante 10 segundos. Usted puede utilizar este tiempo para ajustar la cámara. Después de estos 10 segundos, la imagen de la cámara desaparecerá y comenzará la obra. Si usted necesita más de 10 segundos, simplemente pulse la tecla TAB en el teclado y el temporizador se restablecerá para darle otros 30 segundos.
 
-La versión actual (v_21) viene en Español y en Inglés. Basta con pulsar la barra espaciadora para cambiar de un idioma a otro.
+La versión actual (v_22) viene en Español y en Inglés. Basta con pulsar la barra espaciadora para cambiar de un idioma a otro.
 
 Para salir del programa presione la tecla ESC.
 

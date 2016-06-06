@@ -36,7 +36,7 @@ The public standing in front of the screen should be illuminated with a diffuse 
 ## Installation
 Download the software from this link: 
 
-<http://lozano-hemmer.com/software/level_of_confidence/Nivel_de_Confianza_v21.zip>
+<http://lozano-hemmer.com/pieces/level_of_confidence/software/Nivel_de_Confianza.zip>
 
 Once you have that Unzip the folder and place it on the desktop or anywhere you want. Inside the "Level of Confidence" folder find the LOC_xx.app icon (xx stands for the version number) that looks like this:
 
@@ -56,7 +56,7 @@ go to "User &Groups"->"Login Items" and add the LOC_xx.app icon to the list of i
 ## Calibration
 When the software starts the live camera view will be visible for 10 seconds. You can use this time to point the camera. After these 10 seconds the camera view disappears and the artwork will be displayed. If you need more then 10 seconds simply press the TAB key on the keyboard and the timer will be reset to give you another 30 seconds.
 
-The current version (v_21) comes in Spanish and English. Simply press the SPACE bar to switch between languages.
+The current version (v_22) comes in Spanish and English. Simply press the SPACE bar to switch between languages.
 
 To exit the software press the ESC key.
 
