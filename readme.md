@@ -52,6 +52,13 @@ go to "User &Groups"->"Login Items" and add the LOC_xx.app icon to the list of i
 - If you use a laptop with OSX 10.9 or higher go to “Mission Control” and unselect “Automatically rearrange ... “ and “Displays have separate Spaces”, otherwise the software will not run on your external Display.
 - If you get a warning that the project is from an “unidentified developer” go to the preferences -> “security and privacy” and select “ Allow apps dowloaded from anywhere”.
 
+### macOS 10.14
+It might happen that the LOC_xx.app does not open and report an error. There is a quick work around that still allows you to run the software.
+- right click on LOC_22.app
+- select "Show Package Contents"
+- navigate to Contents/MacOS/LOC_22 
+- double click it
+This will first open the Terminal.app and then the artwork app.
 
 ## Calibration
 When the software starts the live camera view will be visible for 10 seconds. You can use this time to point the camera. After these 10 seconds the camera view disappears and the artwork will be displayed. If you need more then 10 seconds simply press the TAB key on the keyboard and the timer will be reset to give you another 30 seconds.
