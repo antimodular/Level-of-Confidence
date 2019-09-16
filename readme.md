@@ -40,6 +40,7 @@ Download the software from this link:
 <http://lozano-hemmer.com/pieces/level_of_confidence/software/Nivel_de_Confianza.zip>
 
 If the above version does not work try this one. Our tests show it works with macOS 10.12.6
+
 <http://lozano-hemmer.com/pieces/level_of_confidence/software/Nivel_de_Confianza_v22.zip>
 
 
