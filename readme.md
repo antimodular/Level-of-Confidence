@@ -23,6 +23,7 @@ A small USB webcam should be hung at a height of 150 cm (measured from the centr
 - Mac Book Pro 2.8 GHz Indel Core i7 processor, 16GB RAM, Intel Iris Pro 1536MB graphics card
 - Mac Mini 2.3 GHz Intel Core i7, 4GB RAM, Intel HD 4000 512MB graphics card
 - Mac Mini 2.6 GHz Intel Core i5, 8GB RAM, IRIS 5100 graphics card
+- Mac Mini 2011 2.7 GHz Intel Core i7, 8GB RAM, 1333MHz DDR3, AMD Radeon HD 6630M 256 MB (with macOS 10.12.6 )
 
 The computer must be connected to the screen by an HDMI, VGA or DVI cable and to the webcam by USB.
 
@@ -37,6 +38,10 @@ The public standing in front of the screen should be illuminated with a diffuse 
 Download the software from this link: 
 
 <http://lozano-hemmer.com/pieces/level_of_confidence/software/Nivel_de_Confianza.zip>
+
+If the above version does not work try this one. Our tests show it works with macOS 10.12.6
+<http://lozano-hemmer.com/pieces/level_of_confidence/software/Nivel_de_Confianza_v22.zip>
+
 
 Once you have that Unzip the folder and place it on the desktop or anywhere you want. Inside the "Level of Confidence" folder find the LOC_xx.app icon (xx stands for the version number) that looks like this:
 

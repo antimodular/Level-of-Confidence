@@ -24,6 +24,7 @@ Una cámara web pequeña USB debe ir colgada a una altura de 150 cm (medir des
 - Mac Book Pro 2.8 GHz procesador Intel Core i7, memoria RAM de 16 GB, tarjeta gráfica Intel Iris Pro 1536MB
 - Mac Mini 2.3 GHz Intel Core i7, 4 GB de RAM, tarjeta gráfica Intel HD 4000 512 MB
 - Mac Mini 2.6 GHz Intel Core i5, memoria RAM de 8 GB, tarjeta gráfica IRIS 5100
+- Mac Mini 2011 2.7 GHz Intel Core i7, 8GB RAM, 1333MHz DDR3, AMD Radeon HD 6630M 256 MB (macOS 10.12.6 )
 
 La computadora deberá ir conectada a la pantalla por un cable HDMI, VGA o DVI y a la cámara web por un cable USB.
 
@@ -38,6 +39,8 @@ El público que se encuentra de frente a la pantalla deberá estar iluminado c
 Para descargar el software haga click sobre este link: 
 
 <http://lozano-hemmer.com/pieces/level_of_confidence/software/Nivel_de_Confianza.zip>
+
+<http://lozano-hemmer.com/pieces/level_of_confidence/software/Nivel_de_Confianza_v22.zip>
 
 Una vez que tenga el archivo descomprimido y este haya sido colocado en el escritorio o el destino que usted desee, dentro de la carpeta “Nivel de Confianza” encontrará el icono LOC_xx.app (xx representa el número de la versión) el cual tiene este aspecto:
 
