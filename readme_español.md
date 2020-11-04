@@ -42,6 +42,9 @@ Para descargar el software haga click sobre este link:
 
 <http://lozano-hemmer.com/pieces/level_of_confidence/software/Nivel_de_Confianza_v22.zip>
 
+macOS 10.14.6
+<https://www.lozano-hemmer.com/pieces/level_of_confidence/software/Nivel_de_Confianza_v25.zip>
+
 Una vez que tenga el archivo descomprimido y este haya sido colocado en el escritorio o el destino que usted desee, dentro de la carpeta “Nivel de Confianza” encontrará el icono LOC_xx.app (xx representa el número de la versión) el cual tiene este aspecto:
 
 ![](https://raw.githubusercontent.com/antimodular/Level-of-Confidence/master/images/icon_small.png)
