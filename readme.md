@@ -43,6 +43,8 @@ If the above version does not work try this one. Our tests show it works with ma
 
 <http://lozano-hemmer.com/pieces/level_of_confidence/software/Nivel_de_Confianza_v22.zip>
 
+Version v25 has been tested on macOS 10.14.6
+<https://www.lozano-hemmer.com/pieces/level_of_confidence/software/Nivel_de_Confianza_v25.zip>
 
 Once you have that Unzip the folder and place it on the desktop or anywhere you want. Inside the "Level of Confidence" folder find the LOC_xx.app icon (xx stands for the version number) that looks like this:
 
