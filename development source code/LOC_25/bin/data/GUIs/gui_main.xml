@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<peyp_v_02>
+	<fps>48</fps>
+	<peyp_v_02 />
+	<peyp_v_04>
+		<fps>45</fps>
+	</peyp_v_04>
+	<peyp_v_05>
+		<fps>58</fps>
+	</peyp_v_05>
+	<peyp_v_07>
+		<fps>60</fps>
+	</peyp_v_07>
+	<peyp_v_10>
+		<fps>59</fps>
+	</peyp_v_10>
+	<LOC_v_13>
+		<fps>56</fps>
+	</LOC_v_13>
+	<LOC_v_14>
+		<fps>34</fps>
+		<BG_color>255, 255, 255, 255</BG_color>
+		<BG_color2>255, 255, 255, 255</BG_color2>
+	</LOC_v_14>
+	<LOC_v_18>
+		<fps>50</fps>
+		<BG_color>255, 255, 255, 255</BG_color>
+		<BG_color2>255, 255, 255, 255</BG_color2>
+	</LOC_v_18>
+	<LOC_v_19>
+		<fps>60</fps>
+		<BG_color>255, 255, 255, 255</BG_color>
+		<BG_color2>255, 255, 255, 255</BG_color2>
+	</LOC_v_19>
+	<LOC_v_20>
+		<fps>44</fps>
+	</LOC_v_20>
+	<LOC_v_21>
+		<fps>53</fps>
+	</LOC_v_21>
+</peyp_v_02>
+<LOC_v_24>
+	<fps>59</fps>
+</LOC_v_24>

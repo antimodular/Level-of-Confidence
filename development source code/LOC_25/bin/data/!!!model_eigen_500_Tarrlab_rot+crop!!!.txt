@@ -1,0 +1,3 @@
+The Eigen model was too big for GitHub.
+Please download it from here:
+https://www.lozano-hemmer.com/pieces/level_of_confidence/software/model_eigen_500_Tarrlab_rot+crop.yml.zip

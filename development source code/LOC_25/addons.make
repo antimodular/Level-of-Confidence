@@ -1,0 +1,7 @@
+ofxOpenCv
+ofxCv
+ofxFaceRecognizer
+ofxFaceTracker2
+ofxFontStash
+ofxGui
+ofxXmlSettings
