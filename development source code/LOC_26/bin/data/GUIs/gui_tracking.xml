@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<tracking>
+	<draw_database>0</draw_database>
+	<minFaceFactor>16.96</minFaceFactor>
+	<maxFaceFactor>2.125</maxFaceFactor>
+	<scaleHaar>1.1</scaleHaar>
+	<haarNeighbors>4</haarNeighbors>
+	<showCamera>0</showCamera>
+	<DoFaceRec>1</DoFaceRec>
+	<horizPadding>31</horizPadding>
+	<portrait_ratio>1.87</portrait_ratio>
+	<livePortrait_ratio>1.33</livePortrait_ratio>
+	<livePortrait_x>572</livePortrait_x>
+	<livePortrait_y>1169</livePortrait_y>
+	<pickedPortrait_x>-40</pickedPortrait_x>
+	<pickedPortrait_y>1073</pickedPortrait_y>
+	<pickedP_scaler>0.9575</pickedP_scaler>
+	<liveFaceFound>0</liveFaceFound>
+	<faceLostDuration>10.28</faceLostDuration>
+	<faceLostTimeDiff>45</faceLostTimeDiff>
+	<faceFoundDuration>3.9</faceFoundDuration>
+	<faceFoundTimeDiff>0</faceFoundTimeDiff>
+	<livePortrait_margin>76</livePortrait_margin>
+	<iterrations>4</iterrations>
+	<attempts>2</attempts>
+	<tolerance>0.1</tolerance>
+	<mirror>0</mirror>
+	<flip>1</flip>
+	<exclusionDuration>0</exclusionDuration>
+	<haarMinSize>79</haarMinSize>
+	<faceLostZoomWait>1.29</faceLostZoomWait>
+	<rotate_cam>1</rotate_cam>
+</tracking>

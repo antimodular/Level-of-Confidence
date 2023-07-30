@@ -11,15 +11,19 @@ The display can be any flat screen that has a native HD resolution of 1920x1080 
 
 ## 2. USB Camera
 A small USB webcam should be hung at a height of 150 cm (measured from the centre of the camera) and in a vertical orientation. Any USB web camera that works with Skype or other video applications should work with this software. We successfully tested these cameras:
+
 - Logitech QuickCam Pro 9000
 - Logitech C910
 - Logitech C920
 - Logitech C930E
 - Microsoft 180P HD
 - Apple iSight (Firewire 400)
+- FaceTime HD Camera
 
 ## 3. Computer
 "Level of Confidence" requires an Apple Macintosh computer with OSX 10.8 or higher. The software has been successfully run on the following models:
+
+- MacBook Pro (16-inch, 2021), Apple M1 Max, macOS 12.6.6 
 - Mac Book Pro 2.8 GHz Indel Core i7 processor, 16GB RAM, Intel Iris Pro 1536MB graphics card
 - Mac Mini 2.3 GHz Intel Core i7, 4GB RAM, Intel HD 4000 512MB graphics card
 - Mac Mini 2.6 GHz Intel Core i5, 8GB RAM, IRIS 5100 graphics card
@@ -39,7 +43,9 @@ Download the software from this link:
 
 <http://lozano-hemmer.com/pieces/level_of_confidence/software/Nivel_de_Confianza.zip>
 
-If the above version does not work try this one. Our tests show it works with macOS 10.12.6
+Or download the whole repository from GitHub. Find the folder with latest version (LOC_26->bin).
+
+If the latest version does not work try this one. Our tests show it works with macOS 10.12.6
 
 <http://lozano-hemmer.com/pieces/level_of_confidence/software/Nivel_de_Confianza_v22.zip>
 
@@ -50,8 +56,15 @@ Once you have that Unzip the folder and place it on the desktop or anywhere you 
 
 ![](https://raw.githubusercontent.com/antimodular/Level-of-Confidence/master/images/icon_small.png)
 
-Drag this icon in to the Dock for convenience. Open "System Preferences"
-go to "User &Groups"->"Login Items" and add the LOC_xx.app icon to the list of items that will automatically start on log in.
+Drag this icon in to the Dock for convenience. 
+
+Download the software from GitHub, unzip the folder and place it on the desktop or anywhere you want.
+
+- Because of a security method introduced by Apple, you will need to do the following, otherwise the app will crash at startup. Once you have unzipped the downloaded folder, open it, find the LOC_26.app and move it elsewhere outside of such folder (the desktop is ok) and then move it back to where it was.
+
+Open "System Preferences":
+
+- go to "User &Groups"->"Login Items" and add the LOC_xx.app icon to the list of items that will automatically start on log in.
 - Go to "Desktop & Screen Saver" and set Screen Saver to "Start after" never.
 - Go to "Energy Saver" and unselect "Put hard disks to sleep ...".
 - Go to "Displays" and set "Rotation" to 90 ̊. 
@@ -62,6 +75,7 @@ go to "User &Groups"->"Login Items" and add the LOC_xx.app icon to the list of i
 
 ### macOS 10.14
 It might happen that the LOC_xx.app does not open and report an error. There is a quick work around that still allows you to run the software.
+
 - right click on LOC_22.app
 - select "Show Package Contents"
 - navigate to Contents/MacOS/LOC_22 

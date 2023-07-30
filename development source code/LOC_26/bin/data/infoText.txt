@@ -1,0 +1,41 @@
+Identificación facial:
+Fisher, Eigen, LBPN
+Se detecta un parecido de:
+puntos
+Con el rostro del estudiante de 
+Ayotzinapa:
+
+Nivel de confianza:
+%
+Resultado:
+estudiante no encontrado.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Facial recognition engine:
+Fisher, Eigen, LBPN
+Detected similarity score:
+points
+With the face of disappeared Ayotzinapa student:
+
+Level of confidence:
+%
+Result:
+student not found
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
