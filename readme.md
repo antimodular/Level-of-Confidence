@@ -39,18 +39,18 @@ This software ran slowly on:
 The public standing in front of the screen should be illuminated with a diffuse light. This is important so that the camera can capture the details of the public’s face. Typically a fluorescent or quartz halogen wash light can be hung on the very same wall and over the display. Ideally the piece will be shown so that the camera faces a blank wall instead of a busy window with natural light, since the sunlight will overpower the camera, this helps the system concentrate in searching for faces which are close to the screen.
 
 ## Installation
+Over the years we created multiple version each at the time working for the current macOS.
+
 Download the software from this link: 
+[version 27 tested on macOS 13.7 with Apple silicon](https://github.com/antimodular/Level-of-Confidence/tree/master/development%20source%20code/LOC_27) contains LOC_27.dmg which holds all source code and the bin/LOC_27.app executable.
 
-<http://lozano-hemmer.com/pieces/level_of_confidence/software/Nivel_de_Confianza.zip>
+[version 25 tested on macOS 12.6.6 with Apple silicon](http://lozano-hemmer.com/pieces/level_of_confidence/software/Nivel_de_Confianza.zip)
 
-Or download the whole repository from GitHub. Find the folder with latest version (LOC_26->bin).
+[version 25 tested on macOS 10.14.6 with Intel chip](https://www.lozano-hemmer.com/pieces/level_of_confidence/software/Nivel_de_Confianza_v25.zip)
 
-If the latest version does not work try this one. Our tests show it works with macOS 10.12.6
+[version 22 tested on macOS 10.12.6 with Intel chip](http://lozano-hemmer.com/pieces/level_of_confidence/software/Nivel_de_Confianza_v22.zip)
 
-<http://lozano-hemmer.com/pieces/level_of_confidence/software/Nivel_de_Confianza_v22.zip>
-
-Version v25 has been tested on macOS 10.14.6
-<https://www.lozano-hemmer.com/pieces/level_of_confidence/software/Nivel_de_Confianza_v25.zip>
+For all versions that do not come inside a .dmg file:
 
 Once you have that Unzip the folder and place it on the desktop or anywhere you want. Inside the "Level of Confidence" folder find the LOC_xx.app icon (xx stands for the version number) that looks like this:
 
