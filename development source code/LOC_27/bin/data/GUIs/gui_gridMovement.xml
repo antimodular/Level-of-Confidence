@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<grid>
+	<goToID>0</goToID>
+	<zoomStage>-1</zoomStage>
+	<gridSwitch_duration>5</gridSwitch_duration>
+	<grid_tweenStepping>0.02</grid_tweenStepping>
+	<defaultZoom_in>2.43</defaultZoom_in>
+	<zoomIn_oneStep>0.01</zoomIn_oneStep>
+	<defaultZoom_mid>0.8125</defaultZoom_mid>
+	<zoomMid_oneStep>0.01</zoomMid_oneStep>
+	<defaultZoom_out>0.2075</defaultZoom_out>
+	<zoomOut_oneStep>1</zoomOut_oneStep>
+	<grid />
+	<gridMovement>
+		<goToID>0</goToID>
+		<zoomStage>-1</zoomStage>
+		<gridSwitch_duration>5</gridSwitch_duration>
+		<grid_tweenStepping>0.02</grid_tweenStepping>
+		<defaultZoom_in>2.43</defaultZoom_in>
+		<zoomIn_oneStep>0.01</zoomIn_oneStep>
+		<defaultZoom_mid>0.8125</defaultZoom_mid>
+		<zoomMid_oneStep>0.01</zoomMid_oneStep>
+		<defaultZoom_out>0.203</defaultZoom_out>
+		<zoomOut_oneStep>1</zoomOut_oneStep>
+	</gridMovement>
+</grid>
+<gridMovement>
+	<goToID>0</goToID>
+	<zoomStage>-1</zoomStage>
+	<gridSwitch_duration>5</gridSwitch_duration>
+	<grid_tweenStepping>0.02</grid_tweenStepping>
+	<defaultZoom_in>2.43</defaultZoom_in>
+	<zoomIn_oneStep>0.01</zoomIn_oneStep>
+	<defaultZoom_mid>0.8125</defaultZoom_mid>
+	<zoomMid_oneStep>0.01</zoomMid_oneStep>
+	<defaultZoom_out>0.2075</defaultZoom_out>
+	<zoomOut_oneStep>0.01</zoomOut_oneStep>
+</gridMovement>

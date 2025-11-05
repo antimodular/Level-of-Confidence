@@ -1,0 +1,51 @@
+# macOS
+.DS_Store
+
+# Xcode
+*.xcuserstate
+*.xcscmblueprint
+*.xccheckout
+*.moved-aside
+*.mode1v3
+*.pbxuser
+*.perspectivev3
+xcuserdata/
+project.xcworkspace/
+
+# openFrameworks build outputs
+obj/
+# Ignore everything in bin except data
+bin/*
+!bin/data/
+!bin/data/**
+# App bundles and debug symbols
+*.app
+*.dSYM
+
+# Build artifacts
+build/
+*.o
+*.a
+*.so
+*.dll
+*.dylib
+
+# Editors/IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+*.zip
+
+# Auto-generated version files
+src/version.h
+version.env
+local_addons/ofxCsv
+bin/data/GUIs/heads/
+bin/data/backUps/
+example/
+bin/data/GUIs-*/
+notes-md/

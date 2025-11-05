@@ -1,0 +1,40 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(sw_vers)",
+      "Bash(xcodebuild:*)",
+      "Bash(make:*)",
+      "Bash(lipo:*)",
+      "Bash(otool:*)",
+      "Read(//Applications/of_v0.12-2.0_osx_release/**)",
+      "Bash(/usr/libexec/PlistBuddy:*)",
+      "Bash(chmod:*)",
+      "Bash(git rev-parse:*)",
+      "Bash(cat:*)",
+      "Bash(find:*)",
+      "Bash(tee:*)",
+      "Bash(git checkout:*)",
+      "Bash(git stash:*)",
+      "Bash(git reset:*)",
+      "Bash(killall:*)",
+      "Bash(./bin/LOC_27.app/Contents/MacOS/LOC_27)",
+      "Bash(ln:*)",
+      "Bash(plutil:*)",
+      "Bash(open:*)",
+      "Bash(log show:*)",
+      "Bash(codesign:*)",
+      "Bash(sqlite3:*)",
+      "Bash(/System/Library/Frameworks/CoreServices.framework/Frameworks/LaunchServices.framework/Support/lsregister:*)",
+      "Read(//Users/stephanschulz/Desktop/**)",
+      "Bash(tccutil reset:*)",
+      "Bash(./create_dmg.sh:*)",
+      "Bash(git lfs:*)",
+      "Bash(git add:*)",
+      "WebFetch(domain:github.com)",
+      "Bash(git clone:*)",
+      "Bash(rsync:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

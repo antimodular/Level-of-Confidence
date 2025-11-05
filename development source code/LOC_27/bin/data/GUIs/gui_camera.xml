@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Camera_Selection>
+	<Selected_Camera>
+		<OBSBOT_Virtual_Camera__DFCE4674-D8B4-E9C2-D625-339240874FB3_>0</OBSBOT_Virtual_Camera__DFCE4674-D8B4-E9C2-D625-339240874FB3_>
+		<Logitech_BRIO__0x2100000046d085e_>1</Logitech_BRIO__0x2100000046d085e_>
+		<NDI_Virtual_Camera__B4BD809B-3C97-4903-A7F3-91E37B12FD7B_>0</NDI_Virtual_Camera__B4BD809B-3C97-4903-A7F3-91E37B12FD7B_>
+		<FaceTime_HD_Camera__47B4B64B-7067-4B9C-AD2B-AE273A71F4B5_>0</FaceTime_HD_Camera__47B4B64B-7067-4B9C-AD2B-AE273A71F4B5_>
+	</Selected_Camera>
+</Camera_Selection>

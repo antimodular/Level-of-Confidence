@@ -1,0 +1,3 @@
+*.dmg filter=lfs diff=lfs merge=lfs -text
+*.yml filter=lfs diff=lfs merge=lfs -text
+development[[:space:]]source[[:space:]]code/LOC_27/bin/data/model_eigen_500_Tarrlab_rot+crop.yml filter=lfs diff=lfs merge=lfs -text
