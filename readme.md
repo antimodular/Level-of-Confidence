@@ -39,9 +39,10 @@ This software ran slowly on:
 The public standing in front of the screen should be illuminated with a diffuse light. This is important so that the camera can capture the details of the public’s face. Typically a fluorescent or quartz halogen wash light can be hung on the very same wall and over the display. Ideally the piece will be shown so that the camera faces a blank wall instead of a busy window with natural light, since the sunlight will overpower the camera, this helps the system concentrate in searching for faces which are close to the screen.
 
 ## Installation
-Over the years we created multiple version each at the time working for the current macOS.
+Over the years we created multiple versions, each at the time working for the current macOS.
 
 Download the software from this link: 
+
 [version 27 tested on macOS 13.7 with Apple silicon](https://github.com/antimodular/Level-of-Confidence/tree/master/development%20source%20code/LOC_27) contains LOC_27.dmg which holds all source code and the bin/LOC_27.app executable.
 
 [version 25 tested on macOS 12.6.6 with Apple silicon](http://lozano-hemmer.com/pieces/level_of_confidence/software/Nivel_de_Confianza.zip)
